@@ -1,0 +1,41 @@
+body {
+  height: 5000px;
+}
+.left {
+  width: 50%;
+  background-color: purple;
+}
+.right {
+  width: 50%;
+  background-color: green;
+}
+.relative {
+  position: relative;
+  background-color: lightblue;
+  height: 250px;
+  padding: 30px;
+  margin: 10px;
+  display: flex;
+}
+.absolute {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 150px;
+  width: 150px;
+  background-color: red;
+  color: white;
+
+}
+
+.fixed {
+  position: fixed;
+  bottom: 0;
+  margin: auto;
+  /*right: 50%;*/
+  height: 200px;
+  width: 200px;
+  color: whitesmoke; 
+  background-color: green;
+
+}
