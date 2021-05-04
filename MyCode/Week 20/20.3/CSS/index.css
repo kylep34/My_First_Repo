@@ -1,0 +1,35 @@
+
+.customNav a
+{
+    background-color: transparent !important;
+}
+
+.nav-item a
+{
+    text-align: center !important;
+}
+
+.travelBackground
+{
+    background: url('../images/mountainx2.png');
+    background-size: 100% 848px;
+    margin-top: 0px;
+}
+
+.titleChevron
+{
+    height: 21.58px;
+    width: 44px;
+    display: flex;
+    
+}
+
+.cardContainer
+{
+    text-align: center;
+}
+
+.cardContainer 
+{
+    margin-top: 20px;
+}
